@@ -1,3 +1,13 @@
+###################################################################
+## GrooPy 1.0 - Interpreter for Groovy                            #
+##            - interprets only arithmetics in Groovy             #
+## Status - Under Developement                                    #
+##        - More Additions will be done                           #
+###################################################################
+
+
+
+
 import sys
 data=" "
 #TOkens-->

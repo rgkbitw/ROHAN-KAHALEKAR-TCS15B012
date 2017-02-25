@@ -1,3 +1,20 @@
+###################################################################
+## GrooPy 0.0 - Interpreter for Groovy
+##            - Interprets Basic Arithmetic in Groovy
+##            - Interprets Println action 
+## Status - Terminated because of inefficiency 
+###################################################################
+
+
+
+
+
+
+
+
+
+
+
 from sys import *
 def open_file(filename):
     data=open(filename,'r').read()
